@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/dadyar.png" width="180" alt="DADYAR logo">
+  <img src="./assets/dadyar.png" width="500" alt="DADYAR - سامانه خدمات حقوقی">
 </p>
 
 <h1 align="center">دادیار | DADYAR</h1>
