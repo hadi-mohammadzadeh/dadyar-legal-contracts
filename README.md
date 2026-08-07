@@ -128,8 +128,8 @@ DADYAR-IR-[DOCUMENT-ID]_[PERSIAN TITLE].pdf
 **دادیار — همراه کاردان شما در امور حقوقی**
 
 نسل نوین خدمات هوشمند حقوقی و قضایی
+آدرس وب سایت : https://dadyar.org
 
-Official Website: dadyar.org
 
 ---
 
@@ -153,6 +153,7 @@ Detailed terms concerning use, reproduction, adaptation, redistribution, and att
 
 ---
 
+Official Website: https://dadyar.org
+
 Copyright © DADYAR , DESIGN BY H
 All rights concerning authorship and original publication are reserved subject to the terms stated in this repository.
-our website: https://dadyar.org
